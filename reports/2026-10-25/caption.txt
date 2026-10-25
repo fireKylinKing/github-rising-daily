@@ -1,0 +1,51 @@
+GitHub 飙升日报｜AI代理工具走向工程化
+
+今天登上增量榜的项目，多围绕让 AI 代理更安全、更好用：从多阶段安全审计技能、内核级沙箱运行时，到给代理加设计约束、用 HTML 渲染视频、聚合免费模型接口，以及把排盘和知识工作插件化。它们共同把代理从会聊天推进到能执行、可约束、可交付。
+
+今日涨星榜：
+1. cloudflare/security-audit-skill  +2264/日
+把编码代理变成安全审计员
+2. NVIDIA/OpenShell  +896/日
+面向自主代理的隔离运行时
+3. DietrichGebert/ponytail  +785/日
+让代理少写代码多交付
+4. heygen-com/hyperframes  +743/日
+用 HTML 写可渲染视频
+5. tashfeenahmed/freellmapi  +715/日
+把多家免费模型聚合为一个接口
+6. anthropics/sandbox-runtime  +650/日
+不靠容器的轻量进程沙箱
+7. SnailSploit/Claude-Red  +630/日
+给 Claude 的红队技能库
+8. pbakaus/impeccable  +619/日
+给 AI 前端加设计约束
+9. anthropics/knowledge-work-plugins  +524/日
+把 Claude 变成岗位专家
+10. Renhuai123/ziwei-doushu  +489/日
+开源紫微斗数排盘引擎
+
+新锐榜（排除涨星榜后，按估算相对涨幅）：
+1. makecindy/cindy  +13.01%（+477/日）
+2. basketikun/infinite-canvas  +4.35%（+376/日）
+3. jamro/tiny-engineer  +3.23%（+27/日）
+4. pollen-robotics/microduck  +2.97%（+319/日）
+5. NomaDamas/CozyClay  +2.87%（+28/日）
+6. Gaurav-Gosain/tuios  +2.30%（+131/日）
+7. slavakurilyak/awesome-ai-agents  +1.68%（+44/日）
+8. ZSeven-W/openpencil  +1.54%（+100/日）
+9. Vincentwei1021/video-shotcraft  +1.48%（+196/日）
+10. Nutlope/hallmark  +1.43%（+455/日）
+
+今天的观察：
+1. 代理安全从提示走向运行时
+安全类项目不再只给代理加一句“小心”，而是把审计流程、系统调用、网络出口和红队方法论做成可执行约束。security-audit-skill 把发现写成可复核记录，OpenShell 与 sandbox-runtime 从系统层限制进程，Claude-Red 把攻击面知识固化成技能。共同指向：代理能力越强，边界越需要工程化。
+2. 设计技能开始约束代理审美
+当代理能写页面，模板化审美就成了新问题。impeccable 用命令和检测规则约束排版、配色与动效，hallmark 用主题材料和浏览器检查拒绝“AI 味”，openpencil 则把提示词直接接到矢量画布。它们都在尝试把设计判断变成代理可执行、可复查的步骤，而不只是换一套皮肤。
+3. 代理工作台走向多工具编排
+代理工具正在从单一聊天窗口扩展成工作台：Cindy 把多种 harness、模型和本地文件放进桌面端，tuios 用终端窗格和收件箱管理多个代理，HyperFrames 与 CozyClay 把视频制作拆成可编排步骤。共同点是把模型、工具、状态和交付物放在一个可持续操作的环境里。
+
+采集日期：2026-10-25，时区 Asia/Shanghai。候选 110 个，来自 GitHub 全站与配置语言 Trending 日榜。
+新增数为 GitHub 日榜展示口径；新锐涨幅分母为累计 Star 减去当日新增的估算值。
+本工具历史始于 2026-10-25，首次收录不等于项目历史首次登榜。AI 解读为基于公开资料的编辑观察。
+
+#GitHub #开源项目 #AI工具 #开发者 #开源升温
