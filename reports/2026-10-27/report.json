@@ -1,0 +1,1452 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-27",
+  "collectedAt": "2026-10-27T05:05:41.368Z",
+  "historyStart": "2026-10-25",
+  "candidateCount": 96,
+  "eligibleCount": 73,
+  "metric": "github-trending-daily",
+  "minStars": 200,
+  "minDailyGain": 20,
+  "gain": [
+    {
+      "fullName": "debpalash/VoiceStudio",
+      "stars": 89673,
+      "dailyGain": 2297,
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "repoId": 1206390571,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "currentStars": 89673,
+      "createdAt": "2026-04-09T21:40:26Z",
+      "license": "AGPL-3.0",
+      "ownerType": "User",
+      "archived": false,
+      "fork": false,
+      "ageDays": 200,
+      "growthRate": 0.02628868339132027,
+      "net24h": null,
+      "milestones": [],
+      "milestoneSince": "2026-10-26",
+      "rank": 1,
+      "history": {
+        "status": "continuing",
+        "streakDays": 2,
+        "streakIsLowerBound": false,
+        "observedDays": 2,
+        "firstSeenDate": "2026-10-26",
+        "previousRank": 2,
+        "rankChange": 1,
+        "previousGain": 1592,
+        "gainChange": 705
+      }
+    },
+    {
+      "fullName": "Nutlope/hallmark",
+      "stars": 36899,
+      "dailyGain": 2244,
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "repoId": 1222917575,
+      "url": "https://github.com/Nutlope/hallmark",
+      "currentStars": 36899,
+      "createdAt": "2026-04-27T20:47:10Z",
+      "license": "MIT",
+      "ownerType": "User",
+      "archived": false,
+      "fork": false,
+      "ageDays": 182,
+      "growthRate": 0.06475256095801471,
+      "net24h": null,
+      "milestones": [],
+      "milestoneSince": "2026-10-26",
+      "rank": 2,
+      "history": {
+        "status": "continuing",
+        "streakDays": 2,
+        "streakIsLowerBound": false,
+        "observedDays": 2,
+        "firstSeenDate": "2026-10-26",
+        "previousRank": 3,
+        "rankChange": 1,
+        "previousGain": 1317,
+        "gainChange": 927
+      }
+    },
+    {
+      "fullName": "cloudflare/security-audit-skill",
+      "stars": 48806,
+      "dailyGain": 1860,
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "sourceUrl": "https://github.com/trending/javascript?since=daily",
+      "repoId": 1273427276,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "currentStars": 48806,
+      "createdAt": "2026-06-18T14:08:44Z",
+      "license": "MIT",
+      "ownerType": "Organization",
+      "archived": false,
+      "fork": false,
+      "ageDays": 131,
+      "growthRate": 0.039619988923443955,
+      "net24h": null,
+      "milestones": [],
+      "milestoneSince": "2026-10-26",
+      "rank": 3,
+      "history": {
+        "status": "continuing",
+        "streakDays": 3,
+        "streakIsLowerBound": true,
+        "observedDays": 3,
+        "firstSeenDate": "2026-10-25",
+        "previousRank": 1,
+        "rankChange": -2,
+        "previousGain": 2878,
+        "gainChange": -1018
+      }
+    },
+    {
+      "fullName": "pbakaus/impeccable",
+      "stars": 89436,
+      "dailyGain": 1506,
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "repoId": 1097346685,
+      "url": "https://github.com/pbakaus/impeccable",
+      "currentStars": 89436,
+      "createdAt": "2025-11-16T01:52:04Z",
+      "license": "Apache-2.0",
+      "ownerType": "User",
+      "archived": false,
+      "fork": false,
+      "ageDays": 345,
+      "growthRate": 0.017127260320709655,
+      "net24h": null,
+      "milestones": [],
+      "milestoneSince": "2026-10-26",
+      "rank": 4,
+      "history": {
+        "status": "continuing",
+        "streakDays": 3,
+        "streakIsLowerBound": true,
+        "observedDays": 3,
+        "firstSeenDate": "2026-10-25",
+        "previousRank": 5,
+        "rankChange": 1,
+        "previousGain": 1092,
+        "gainChange": 414
+      }
+    },
+    {
+      "fullName": "AgriciDaniel/claude-seo",
+      "stars": 22259,
+      "dailyGain": 1457,
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "language": "Python",
+      "sourceUrl": "https://github.com/trending/python?since=daily",
+      "repoId": 1152014594,
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "currentStars": 22259,
+      "createdAt": "2026-02-07T08:17:38Z",
+      "license": "MIT",
+      "ownerType": "User",
+      "archived": false,
+      "fork": false,
+      "ageDays": 262,
+      "growthRate": 0.07004134217863667,
+      "net24h": null,
+      "milestones": [],
+      "milestoneSince": "2026-10-26",
+      "rank": 5,
+      "history": {
+        "status": "new",
+        "streakDays": 1,
+        "streakIsLowerBound": false,
+        "observedDays": 1,
+        "firstSeenDate": "2026-10-27",
+        "previousRank": null,
+        "rankChange": null,
+        "previousGain": null,
+        "gainChange": null
+      }
+    },
+    {
+      "fullName": "TauricResearch/TradingAgents",
+      "stars": 116431,
+      "dailyGain": 1395,
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "repoId": 909213664,
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "currentStars": 116432,
+      "createdAt": "2024-12-28T03:31:08Z",
+      "license": "Apache-2.0",
+      "ownerType": "Organization",
+      "archived": false,
+      "fork": false,
+      "ageDays": 668,
+      "growthRate": 0.012126638617476268,
+      "net24h": null,
+      "milestones": [],
+      "milestoneSince": "2026-10-26",
+      "rank": 6,
+      "history": {
+        "status": "new",
+        "streakDays": 1,
+        "streakIsLowerBound": false,
+        "observedDays": 1,
+        "firstSeenDate": "2026-10-27",
+        "previousRank": null,
+        "rankChange": null,
+        "previousGain": null,
+        "gainChange": null
+      }
+    },
+    {
+      "fullName": "makecindy/cindy",
+      "stars": 6748,
+      "dailyGain": 1296,
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "repoId": 1309102418,
+      "url": "https://github.com/makecindy/cindy",
+      "currentStars": 6748,
+      "createdAt": "2026-07-22T17:49:34Z",
+      "license": "Apache-2.0",
+      "ownerType": "Organization",
+      "archived": false,
+      "fork": false,
+      "ageDays": 96,
+      "growthRate": 0.23771093176815847,
+      "net24h": null,
+      "milestones": [],
+      "milestoneSince": "2026-10-26",
+      "rank": 7,
+      "history": {
+        "status": "continuing",
+        "streakDays": 2,
+        "streakIsLowerBound": false,
+        "observedDays": 2,
+        "firstSeenDate": "2026-10-26",
+        "previousRank": 8,
+        "rankChange": 1,
+        "previousGain": 675,
+        "gainChange": 621
+      }
+    },
+    {
+      "fullName": "JetBrains/thinkrail",
+      "stars": 3144,
+      "dailyGain": 1173,
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "repoId": 1293238217,
+      "url": "https://github.com/JetBrains/thinkrail",
+      "currentStars": 3144,
+      "createdAt": "2026-07-08T07:40:43Z",
+      "license": "Apache-2.0",
+      "ownerType": "Organization",
+      "archived": false,
+      "fork": false,
+      "ageDays": 111,
+      "growthRate": 0.5951293759512938,
+      "net24h": null,
+      "milestones": [],
+      "milestoneSince": "2026-10-26",
+      "rank": 8,
+      "history": {
+        "status": "new",
+        "streakDays": 1,
+        "streakIsLowerBound": false,
+        "observedDays": 1,
+        "firstSeenDate": "2026-10-27",
+        "previousRank": null,
+        "rankChange": null,
+        "previousGain": null,
+        "gainChange": null
+      }
+    },
+    {
+      "fullName": "affaan-m/ECC",
+      "stars": 290008,
+      "dailyGain": 896,
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "repoId": 1136590548,
+      "url": "https://github.com/affaan-m/ECC",
+      "currentStars": 290008,
+      "createdAt": "2026-01-18T00:51:51Z",
+      "license": "MIT",
+      "ownerType": "User",
+      "archived": false,
+      "fork": false,
+      "ageDays": 282,
+      "growthRate": 0.0030991449680400677,
+      "net24h": null,
+      "milestones": [],
+      "milestoneSince": "2026-10-26",
+      "rank": 9,
+      "history": {
+        "status": "continuing",
+        "streakDays": 2,
+        "streakIsLowerBound": false,
+        "observedDays": 2,
+        "firstSeenDate": "2026-10-26",
+        "previousRank": 6,
+        "rankChange": -3,
+        "previousGain": 853,
+        "gainChange": 43
+      }
+    },
+    {
+      "fullName": "pollen-robotics/microduck",
+      "stars": 12510,
+      "dailyGain": 843,
+      "description": "A Tiny biped duck robot 🦆",
+      "language": "Rust",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "repoId": 1315850547,
+      "url": "https://github.com/pollen-robotics/microduck",
+      "currentStars": 12510,
+      "createdAt": "2026-07-29T07:52:16Z",
+      "license": "Apache-2.0",
+      "ownerType": "Organization",
+      "archived": false,
+      "fork": false,
+      "ageDays": 90,
+      "growthRate": 0.07225507842633068,
+      "net24h": null,
+      "milestones": [],
+      "milestoneSince": "2026-10-26",
+      "rank": 10,
+      "history": {
+        "status": "continuing",
+        "streakDays": 2,
+        "streakIsLowerBound": false,
+        "observedDays": 2,
+        "firstSeenDate": "2026-10-26",
+        "previousRank": 10,
+        "rankChange": 0,
+        "previousGain": 647,
+        "gainChange": 196
+      }
+    }
+  ],
+  "rising": [
+    {
+      "fullName": "higgsfield-ai/skills",
+      "stars": 1695,
+      "dailyGain": 226,
+      "description": "",
+      "language": "Python",
+      "sourceUrl": "https://github.com/trending/python?since=daily",
+      "repoId": 1206425593,
+      "url": "https://github.com/higgsfield-ai/skills",
+      "currentStars": 1695,
+      "createdAt": "2026-04-09T22:49:04Z",
+      "license": "MIT",
+      "ownerType": "Organization",
+      "archived": false,
+      "fork": false,
+      "ageDays": 200,
+      "growthRate": 0.15384615384615385,
+      "net24h": null,
+      "milestones": [],
+      "milestoneSince": null,
+      "rank": 1,
+      "history": {
+        "status": "new",
+        "streakDays": 1,
+        "streakIsLowerBound": false,
+        "observedDays": 1,
+        "firstSeenDate": "2026-10-27",
+        "previousRank": null,
+        "rankChange": null,
+        "previousGain": null,
+        "gainChange": null
+      }
+    },
+    {
+      "fullName": "nightly-labs/openbot",
+      "stars": 1626,
+      "dailyGain": 176,
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "repoId": 1332461149,
+      "url": "https://github.com/nightly-labs/openbot",
+      "currentStars": 1626,
+      "createdAt": "2026-08-12T21:32:03Z",
+      "license": null,
+      "ownerType": "Organization",
+      "archived": false,
+      "fork": false,
+      "ageDays": 75,
+      "growthRate": 0.12137931034482759,
+      "net24h": null,
+      "milestones": [],
+      "milestoneSince": "2026-10-26",
+      "rank": 2,
+      "history": {
+        "status": "continuing",
+        "streakDays": 2,
+        "streakIsLowerBound": false,
+        "observedDays": 2,
+        "firstSeenDate": "2026-10-26",
+        "previousRank": 2,
+        "rankChange": 0,
+        "previousGain": 86,
+        "gainChange": 90
+      }
+    },
+    {
+      "fullName": "ranxianglei/billion-context",
+      "stars": 2992,
+      "dailyGain": 176,
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "language": "TypeScript",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "repoId": 1324949198,
+      "url": "https://github.com/ranxianglei/billion-context",
+      "currentStars": 2992,
+      "createdAt": "2026-08-06T08:27:34Z",
+      "license": null,
+      "ownerType": "User",
+      "archived": false,
+      "fork": false,
+      "ageDays": 82,
+      "growthRate": 0.0625,
+      "net24h": null,
+      "milestones": [],
+      "milestoneSince": null,
+      "rank": 3,
+      "history": {
+        "status": "new",
+        "streakDays": 1,
+        "streakIsLowerBound": false,
+        "observedDays": 1,
+        "firstSeenDate": "2026-10-27",
+        "previousRank": null,
+        "rankChange": null,
+        "previousGain": null,
+        "gainChange": null
+      }
+    },
+    {
+      "fullName": "xmanrui/dsh-im",
+      "stars": 2636,
+      "dailyGain": 109,
+      "description": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
+      "language": "JavaScript",
+      "sourceUrl": "https://github.com/trending/javascript?since=daily",
+      "repoId": 1334561781,
+      "url": "https://github.com/xmanrui/dsh-im",
+      "currentStars": 2636,
+      "createdAt": "2026-08-14T20:40:06Z",
+      "license": "MIT",
+      "ownerType": "User",
+      "archived": false,
+      "fork": false,
+      "ageDays": 73,
+      "growthRate": 0.043134151167392165,
+      "net24h": null,
+      "milestones": [],
+      "milestoneSince": null,
+      "rank": 4,
+      "history": {
+        "status": "new",
+        "streakDays": 1,
+        "streakIsLowerBound": false,
+        "observedDays": 1,
+        "firstSeenDate": "2026-10-27",
+        "previousRank": null,
+        "rankChange": null,
+        "previousGain": null,
+        "gainChange": null
+      }
+    },
+    {
+      "fullName": "microsoft/skill-recorder",
+      "stars": 5248,
+      "dailyGain": 203,
+      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Autopilots like Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+      "language": "TypeScript",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "repoId": 1316443307,
+      "url": "https://github.com/microsoft/skill-recorder",
+      "currentStars": 5248,
+      "createdAt": "2026-07-29T18:16:14Z",
+      "license": "MIT",
+      "ownerType": "Organization",
+      "archived": false,
+      "fork": false,
+      "ageDays": 89,
+      "growthRate": 0.0402378592666006,
+      "net24h": null,
+      "milestones": [],
+      "milestoneSince": null,
+      "rank": 5,
+      "history": {
+        "status": "new",
+        "streakDays": 1,
+        "streakIsLowerBound": false,
+        "observedDays": 1,
+        "firstSeenDate": "2026-10-27",
+        "previousRank": null,
+        "rankChange": null,
+        "previousGain": null,
+        "gainChange": null
+      }
+    },
+    {
+      "fullName": "babalae/bettergi-scripts-list",
+      "stars": 660,
+      "dailyGain": 20,
+      "description": "BetterGI 的脚本仓库，内含BetterGI 的JS脚本、路径追踪、战斗策略、七圣召唤策略。",
+      "language": "JavaScript",
+      "sourceUrl": "https://github.com/trending/javascript?since=daily",
+      "repoId": 866958830,
+      "url": "https://github.com/babalae/bettergi-scripts-list",
+      "currentStars": 660,
+      "createdAt": "2024-10-03T07:38:25Z",
+      "license": null,
+      "ownerType": "Organization",
+      "archived": false,
+      "fork": false,
+      "ageDays": 754,
+      "growthRate": 0.03125,
+      "net24h": null,
+      "milestones": [],
+      "milestoneSince": null,
+      "rank": 6,
+      "history": {
+        "status": "new",
+        "streakDays": 1,
+        "streakIsLowerBound": false,
+        "observedDays": 1,
+        "firstSeenDate": "2026-10-27",
+        "previousRank": null,
+        "rankChange": null,
+        "previousGain": null,
+        "gainChange": null
+      }
+    },
+    {
+      "fullName": "Gaurav-Gosain/tuios",
+      "stars": 6111,
+      "dailyGain": 175,
+      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.",
+      "language": "Go",
+      "sourceUrl": "https://github.com/trending/go?since=daily",
+      "repoId": 1051789550,
+      "url": "https://github.com/Gaurav-Gosain/tuios",
+      "currentStars": 6111,
+      "createdAt": "2025-09-06T18:13:51Z",
+      "license": "MIT",
+      "ownerType": "User",
+      "archived": false,
+      "fork": false,
+      "ageDays": 415,
+      "growthRate": 0.0294811320754717,
+      "net24h": null,
+      "milestones": [],
+      "milestoneSince": "2026-10-26",
+      "rank": 7,
+      "history": {
+        "status": "continuing",
+        "streakDays": 3,
+        "streakIsLowerBound": true,
+        "observedDays": 3,
+        "firstSeenDate": "2026-10-25",
+        "previousRank": 6,
+        "rankChange": -1,
+        "previousGain": 190,
+        "gainChange": -15
+      }
+    },
+    {
+      "fullName": "ulsklyc/yuvomi",
+      "stars": 2049,
+      "dailyGain": 49,
+      "description": "One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more in one PWA on your own server or NAS. Docker, Podman, TrueNAS, Umbrel, Unraid. No tracking, MIT.",
+      "language": "JavaScript",
+      "sourceUrl": "https://github.com/trending/javascript?since=daily",
+      "repoId": 1190598050,
+      "url": "https://github.com/ulsklyc/yuvomi",
+      "currentStars": 2049,
+      "createdAt": "2026-03-24T12:46:14Z",
+      "license": "MIT",
+      "ownerType": "User",
+      "archived": false,
+      "fork": false,
+      "ageDays": 217,
+      "growthRate": 0.0245,
+      "net24h": null,
+      "milestones": [],
+      "milestoneSince": "2026-10-26",
+      "rank": 8,
+      "history": {
+        "status": "continuing",
+        "streakDays": 2,
+        "streakIsLowerBound": false,
+        "observedDays": 2,
+        "firstSeenDate": "2026-10-26",
+        "previousRank": 4,
+        "rankChange": -4,
+        "previousGain": 116,
+        "gainChange": -67
+      }
+    },
+    {
+      "fullName": "thesysdev/openui",
+      "stars": 14214,
+      "dailyGain": 331,
+      "description": "The Open Standard for Generative UI",
+      "language": "TypeScript",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "repoId": 897268988,
+      "url": "https://github.com/thesysdev/openui",
+      "currentStars": 14214,
+      "createdAt": "2024-12-02T10:40:06Z",
+      "license": "MIT",
+      "ownerType": "Organization",
+      "archived": false,
+      "fork": false,
+      "ageDays": 694,
+      "growthRate": 0.023842109054239,
+      "net24h": null,
+      "milestones": [],
+      "milestoneSince": null,
+      "rank": 9,
+      "history": {
+        "status": "new",
+        "streakDays": 1,
+        "streakIsLowerBound": false,
+        "observedDays": 1,
+        "firstSeenDate": "2026-10-27",
+        "previousRank": null,
+        "rankChange": null,
+        "previousGain": null,
+        "gainChange": null
+      }
+    },
+    {
+      "fullName": "harry7557558/spirula-studio",
+      "stars": 1933,
+      "dailyGain": 42,
+      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+      "language": "C++",
+      "sourceUrl": "https://github.com/trending/c%2B%2B?since=daily",
+      "repoId": 795775446,
+      "url": "https://github.com/harry7557558/spirula-studio",
+      "currentStars": 1933,
+      "createdAt": "2024-05-04T03:03:05Z",
+      "license": "GPL-3.0",
+      "ownerType": "User",
+      "archived": false,
+      "fork": false,
+      "ageDays": 906,
+      "growthRate": 0.0222104706504495,
+      "net24h": null,
+      "milestones": [],
+      "milestoneSince": null,
+      "rank": 10,
+      "history": {
+        "status": "new",
+        "streakDays": 1,
+        "streakIsLowerBound": false,
+        "observedDays": 1,
+        "firstSeenDate": "2026-10-27",
+        "previousRank": null,
+        "rankChange": null,
+        "previousGain": null,
+        "gainChange": null
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "repoId": 1222917575,
+      "fullName": "Nutlope/hallmark",
+      "stars": 36899,
+      "dailyGain": 2244
+    },
+    {
+      "repoId": 909213664,
+      "fullName": "TauricResearch/TradingAgents",
+      "stars": 116431,
+      "dailyGain": 1395
+    },
+    {
+      "repoId": 1293238217,
+      "fullName": "JetBrains/thinkrail",
+      "stars": 3144,
+      "dailyGain": 1173
+    },
+    {
+      "repoId": 1309102418,
+      "fullName": "makecindy/cindy",
+      "stars": 6748,
+      "dailyGain": 1296
+    },
+    {
+      "repoId": 1136590548,
+      "fullName": "affaan-m/ECC",
+      "stars": 290008,
+      "dailyGain": 896
+    },
+    {
+      "repoId": 1097346685,
+      "fullName": "pbakaus/impeccable",
+      "stars": 89436,
+      "dailyGain": 1506
+    },
+    {
+      "repoId": 1187630119,
+      "fullName": "NVIDIA/SkillSpector",
+      "stars": 22377,
+      "dailyGain": 214
+    },
+    {
+      "repoId": 1315850547,
+      "fullName": "pollen-robotics/microduck",
+      "stars": 12510,
+      "dailyGain": 843
+    },
+    {
+      "repoId": 1332461149,
+      "fullName": "nightly-labs/openbot",
+      "stars": 1626,
+      "dailyGain": 176
+    },
+    {
+      "repoId": 1165277268,
+      "fullName": "Panniantong/Agent-Reach",
+      "stars": 103955,
+      "dailyGain": 746
+    },
+    {
+      "repoId": 1206390571,
+      "fullName": "debpalash/VoiceStudio",
+      "stars": 89673,
+      "dailyGain": 2297
+    },
+    {
+      "repoId": 664013991,
+      "fullName": "gitroomhq/postiz-app",
+      "stars": 38614,
+      "dailyGain": 188
+    },
+    {
+      "repoId": 1215145625,
+      "fullName": "alchaincyf/huashu-design",
+      "stars": 27132,
+      "dailyGain": 251
+    },
+    {
+      "repoId": 1142983825,
+      "fullName": "multica-ai/andrej-karpathy-skills",
+      "stars": 224831,
+      "dailyGain": 638
+    },
+    {
+      "repoId": 575865240,
+      "fullName": "AstrBotDevs/AstrBot",
+      "stars": 43917,
+      "dailyGain": 376
+    },
+    {
+      "repoId": 1144520675,
+      "fullName": "Alishahryar1/free-claude-code",
+      "stars": 63811,
+      "dailyGain": 355
+    },
+    {
+      "repoId": 4165675,
+      "fullName": "smicallef/spiderfoot",
+      "stars": 23876,
+      "dailyGain": 84
+    },
+    {
+      "repoId": 1190557545,
+      "fullName": "eugeniughelbur/obsidian-second-brain",
+      "stars": 4961,
+      "dailyGain": 42
+    },
+    {
+      "repoId": 222751131,
+      "fullName": "Asabeneh/30-Days-Of-Python",
+      "stars": 77262,
+      "dailyGain": 90
+    },
+    {
+      "repoId": 1152014594,
+      "fullName": "AgriciDaniel/claude-seo",
+      "stars": 22259,
+      "dailyGain": 1457
+    },
+    {
+      "repoId": 1206425593,
+      "fullName": "higgsfield-ai/skills",
+      "stars": 1695,
+      "dailyGain": 226
+    },
+    {
+      "repoId": 1056618941,
+      "fullName": "homeassistant-ai/ha-mcp",
+      "stars": 5282,
+      "dailyGain": 36
+    },
+    {
+      "repoId": 614765452,
+      "fullName": "Significant-Gravitas/AutoGPT",
+      "stars": 187784,
+      "dailyGain": 73
+    },
+    {
+      "repoId": 12888993,
+      "fullName": "home-assistant/core",
+      "stars": 91754,
+      "dailyGain": 21
+    },
+    {
+      "repoId": 1140843380,
+      "fullName": "mvanhorn/last30days-skill",
+      "stars": 65609,
+      "dailyGain": 152
+    },
+    {
+      "repoId": 1329163060,
+      "fullName": "HarnessRouter/harnessrouter",
+      "stars": 3710,
+      "dailyGain": 77
+    },
+    {
+      "repoId": 1316443307,
+      "fullName": "microsoft/skill-recorder",
+      "stars": 5248,
+      "dailyGain": 203
+    },
+    {
+      "repoId": 350360184,
+      "fullName": "calcom/cal.diy",
+      "stars": 49405,
+      "dailyGain": 60
+    },
+    {
+      "repoId": 1048065319,
+      "fullName": "thedotmack/claude-mem",
+      "stars": 103487,
+      "dailyGain": 318
+    },
+    {
+      "repoId": 1179264259,
+      "fullName": "garrytan/gstack",
+      "stars": 137851,
+      "dailyGain": 167
+    },
+    {
+      "repoId": 1180425231,
+      "fullName": "ed0ard/CS2-Bot-Improver",
+      "stars": 1317,
+      "dailyGain": 13
+    },
+    {
+      "repoId": 826515105,
+      "fullName": "CodebuffAI/freebuff",
+      "stars": 13787,
+      "dailyGain": 29
+    },
+    {
+      "repoId": 1158096951,
+      "fullName": "refactoringhq/tolaria",
+      "stars": 20355,
+      "dailyGain": 61
+    },
+    {
+      "repoId": 1179413000,
+      "fullName": "Narcooo/inkos",
+      "stars": 10845,
+      "dailyGain": 78
+    },
+    {
+      "repoId": 1324949198,
+      "fullName": "ranxianglei/billion-context",
+      "stars": 2992,
+      "dailyGain": 176
+    },
+    {
+      "repoId": 897268988,
+      "fullName": "thesysdev/openui",
+      "stars": 14214,
+      "dailyGain": 331
+    },
+    {
+      "repoId": 1168753718,
+      "fullName": "every-app/open-seo",
+      "stars": 25156,
+      "dailyGain": 138
+    },
+    {
+      "repoId": 1129329465,
+      "fullName": "nicobailon/pi-subagents",
+      "stars": 4077,
+      "dailyGain": 30
+    },
+    {
+      "repoId": 79162682,
+      "fullName": "laurent22/joplin",
+      "stars": 56892,
+      "dailyGain": 18
+    },
+    {
+      "repoId": 792165334,
+      "fullName": "vega-org/vega-app",
+      "stars": 1633,
+      "dailyGain": 11
+    },
+    {
+      "repoId": 1273427276,
+      "fullName": "cloudflare/security-audit-skill",
+      "stars": 48806,
+      "dailyGain": 1860
+    },
+    {
+      "repoId": 1158722119,
+      "fullName": "addyosmani/agent-skills",
+      "stars": 110864,
+      "dailyGain": 326
+    },
+    {
+      "repoId": 301216792,
+      "fullName": "is-a-dev/register",
+      "stars": 11649,
+      "dailyGain": 7
+    },
+    {
+      "repoId": 1277471539,
+      "fullName": "bilawalsidhu/gods-eye-view",
+      "stars": 60471,
+      "dailyGain": 400
+    },
+    {
+      "repoId": 1334561781,
+      "fullName": "xmanrui/dsh-im",
+      "stars": 2636,
+      "dailyGain": 109
+    },
+    {
+      "repoId": 1004647857,
+      "fullName": "OpenWhispr/openwhispr",
+      "stars": 10068,
+      "dailyGain": 74
+    },
+    {
+      "repoId": 1038201582,
+      "fullName": "darkzOGx/youtube-automation-agent",
+      "stars": 4735,
+      "dailyGain": 51
+    },
+    {
+      "repoId": 1190598050,
+      "fullName": "ulsklyc/yuvomi",
+      "stars": 2049,
+      "dailyGain": 49
+    },
+    {
+      "repoId": 1264811161,
+      "fullName": "chuspeeism/dashi-ppt-skill",
+      "stars": 10064,
+      "dailyGain": 86
+    },
+    {
+      "repoId": 866958830,
+      "fullName": "babalae/bettergi-scripts-list",
+      "stars": 660,
+      "dailyGain": 20
+    },
+    {
+      "repoId": 931888694,
+      "fullName": "cjpais/Handy",
+      "stars": 34813,
+      "dailyGain": 140
+    },
+    {
+      "repoId": 1310665103,
+      "fullName": "samwhosung/benilla",
+      "stars": 839,
+      "dailyGain": 19
+    },
+    {
+      "repoId": 720209383,
+      "fullName": "CapSoftware/Cap",
+      "stars": 23850,
+      "dailyGain": 77
+    },
+    {
+      "repoId": 997737944,
+      "fullName": "ruvnet/RuView",
+      "stars": 99817,
+      "dailyGain": 211
+    },
+    {
+      "repoId": 299354207,
+      "fullName": "rustdesk/rustdesk",
+      "stars": 127199,
+      "dailyGain": 190
+    },
+    {
+      "repoId": 1215569807,
+      "fullName": "malisper/pgrust",
+      "stars": 5559,
+      "dailyGain": 81
+    },
+    {
+      "repoId": 1276966391,
+      "fullName": "JayWebtech/autoshorts",
+      "stars": 1352,
+      "dailyGain": 19
+    },
+    {
+      "repoId": 138552196,
+      "fullName": "nautechsystems/nautilus_trader",
+      "stars": 30912,
+      "dailyGain": 82
+    },
+    {
+      "repoId": 1161163182,
+      "fullName": "tinyhumansai/openhuman",
+      "stars": 42362,
+      "dailyGain": 27
+    },
+    {
+      "repoId": 1302449868,
+      "fullName": "mesamirh/MovieBox-Tui",
+      "stars": 2649,
+      "dailyGain": 29
+    },
+    {
+      "repoId": 599735720,
+      "fullName": "MHSanaei/3x-ui",
+      "stars": 48654,
+      "dailyGain": 82
+    },
+    {
+      "repoId": 743533748,
+      "fullName": "slavakurilyak/awesome-ai-agents",
+      "stars": 2738,
+      "dailyGain": 28
+    },
+    {
+      "repoId": 1201173969,
+      "fullName": "JuliusBrussee/caveman",
+      "stars": 115358,
+      "dailyGain": 277
+    },
+    {
+      "repoId": 1051789550,
+      "fullName": "Gaurav-Gosain/tuios",
+      "stars": 6111,
+      "dailyGain": 175
+    },
+    {
+      "repoId": 226368338,
+      "fullName": "evcc-io/evcc",
+      "stars": 7426,
+      "dailyGain": 5
+    },
+    {
+      "repoId": 16563587,
+      "fullName": "cockroachdb/cockroach",
+      "stars": 32587,
+      "dailyGain": 3
+    },
+    {
+      "repoId": 369755856,
+      "fullName": "majd/ipatool",
+      "stars": 12009,
+      "dailyGain": 56
+    },
+    {
+      "repoId": 1201787282,
+      "fullName": "kunchenguid/no-mistakes",
+      "stars": 8983,
+      "dailyGain": 24
+    },
+    {
+      "repoId": 11180687,
+      "fullName": "gohugoio/hugo",
+      "stars": 90255,
+      "dailyGain": 19
+    },
+    {
+      "repoId": 229030654,
+      "fullName": "go-git/go-git",
+      "stars": 7832,
+      "dailyGain": 0
+    },
+    {
+      "repoId": 23096959,
+      "fullName": "golang/go",
+      "stars": 139628,
+      "dailyGain": 61
+    },
+    {
+      "repoId": 1036865607,
+      "fullName": "github/gh-aw",
+      "stars": 5477,
+      "dailyGain": 9
+    },
+    {
+      "repoId": 170411418,
+      "fullName": "kedacore/keda",
+      "stars": 10674,
+      "dailyGain": 3
+    },
+    {
+      "repoId": 146576102,
+      "fullName": "YouROK/TorrServer",
+      "stars": 3162,
+      "dailyGain": 7
+    },
+    {
+      "repoId": 301830590,
+      "fullName": "benbjohnson/litestream",
+      "stars": 14545,
+      "dailyGain": 9
+    },
+    {
+      "repoId": 561730219,
+      "fullName": "krahets/hello-algo",
+      "stars": 131436,
+      "dailyGain": 126
+    },
+    {
+      "repoId": 81975372,
+      "fullName": "kdn251/interviews",
+      "stars": 65511,
+      "dailyGain": 49
+    },
+    {
+      "repoId": 63477660,
+      "fullName": "TheAlgorithms/Java",
+      "stars": 66572,
+      "dailyGain": 34
+    },
+    {
+      "repoId": 20587599,
+      "fullName": "apache/flink",
+      "stars": 26427,
+      "dailyGain": 4
+    },
+    {
+      "repoId": 13862381,
+      "fullName": "DrKLO/Telegram",
+      "stars": 30173,
+      "dailyGain": 10
+    },
+    {
+      "repoId": 750390942,
+      "fullName": "crimera/piko",
+      "stars": 5804,
+      "dailyGain": 18
+    },
+    {
+      "repoId": 283211901,
+      "fullName": "yuliskov/SmartTube",
+      "stars": 35594,
+      "dailyGain": 59
+    },
+    {
+      "repoId": 320785435,
+      "fullName": "LSPosed/LSPosed",
+      "stars": 25198,
+      "dailyGain": 19
+    },
+    {
+      "repoId": 391055597,
+      "fullName": "kunal-kushwaha/DSA-Bootcamp-Java",
+      "stars": 24065,
+      "dailyGain": 9
+    },
+    {
+      "repoId": 251396732,
+      "fullName": "niedev/RTranslator",
+      "stars": 10568,
+      "dailyGain": 20
+    },
+    {
+      "repoId": 1160497244,
+      "fullName": "floci-io/floci",
+      "stars": 27170,
+      "dailyGain": 37
+    },
+    {
+      "repoId": 19257422,
+      "fullName": "questdb/questdb",
+      "stars": 17477,
+      "dailyGain": 3
+    },
+    {
+      "repoId": 507775,
+      "fullName": "elastic/elasticsearch",
+      "stars": 78400,
+      "dailyGain": 20
+    },
+    {
+      "repoId": 849406496,
+      "fullName": "Fincept-Corporation/FinceptTerminal",
+      "stars": 33168,
+      "dailyGain": 57
+    },
+    {
+      "repoId": 32944298,
+      "fullName": "Z3Prover/z3",
+      "stars": 12842,
+      "dailyGain": 12
+    },
+    {
+      "repoId": 384520418,
+      "fullName": "MaaAssistantArknights/MaaAssistantArknights",
+      "stars": 24016,
+      "dailyGain": 31
+    },
+    {
+      "repoId": 612354784,
+      "fullName": "ggml-org/llama.cpp",
+      "stars": 132484,
+      "dailyGain": 125
+    },
+    {
+      "repoId": 61980658,
+      "fullName": "azerothcore/azerothcore-wotlk",
+      "stars": 9103,
+      "dailyGain": 5
+    },
+    {
+      "repoId": 795775446,
+      "fullName": "harry7557558/spirula-studio",
+      "stars": 1933,
+      "dailyGain": 42
+    },
+    {
+      "repoId": 23129458,
+      "fullName": "aseprite/aseprite",
+      "stars": 40415,
+      "dailyGain": 50
+    },
+    {
+      "repoId": 1217614,
+      "fullName": "xbmc/xbmc",
+      "stars": 21390,
+      "dailyGain": 7
+    }
+  ],
+  "sources": [
+    {
+      "language": "all",
+      "url": "https://github.com/trending?since=daily",
+      "ok": true,
+      "count": 14
+    },
+    {
+      "language": "python",
+      "url": "https://github.com/trending/python?since=daily",
+      "ok": true,
+      "count": 16
+    },
+    {
+      "language": "typescript",
+      "url": "https://github.com/trending/typescript?since=daily",
+      "ok": true,
+      "count": 18
+    },
+    {
+      "language": "javascript",
+      "url": "https://github.com/trending/javascript?since=daily",
+      "ok": true,
+      "count": 11
+    },
+    {
+      "language": "rust",
+      "url": "https://github.com/trending/rust?since=daily",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "language": "go",
+      "url": "https://github.com/trending/go?since=daily",
+      "ok": true,
+      "count": 15
+    },
+    {
+      "language": "java",
+      "url": "https://github.com/trending/java?since=daily",
+      "ok": true,
+      "count": 13
+    },
+    {
+      "language": "c++",
+      "url": "https://github.com/trending/c%2B%2B?since=daily",
+      "ok": true,
+      "count": 8
+    }
+  ],
+  "errors": [],
+  "editorial": {
+    "enabled": true,
+    "headline": "代理技能与本地工作台同榜",
+    "gainIntro": "今天主榜几乎被编码代理的周边占满：一边是给代理补设计感、做安全审计、跑 SEO 的“技能”，一边是把多个代理装进桌面、IDE 和终端的“工作台”。此外还有本地语音工具、多智能体金融研究框架，以及一台会走路的鸭子机器人，类型相当分散。",
+    "risingIntro": "上升区更多是刚起步的小项目：有把屏幕录制变成可复用技能的微软工具，有压缩上下文以撑长会话的插件，也有把 DeepSeek Harness 接进九种即时通讯渠道的插件。另有自托管家庭计划、生成式 UI 框架和 3D 高斯泼溅训练器，整体偏实用。",
+    "projects": {
+      "795775446": {
+        "tagline": "一个二进制跑完 3D 高斯泼溅",
+        "summary": "跨厂商的 3D Gaussian Splatting 训练器：单个二进制完成从照片视频到 splat 再到带纹理网格，内置 SfM 与 AI 遮罩，走 Vulkan 可运行在 NVIDIA、AMD、Intel 和 Apple GPU 上。",
+        "observation": "README 称 8GB 显存能训千万级全 SH 高斯，原生支持鱼眼与 360 度素材，近期还加了度量尺度恢复和编辑渲染。相比 Python 方案省去环境配置，画质与速度仍值得自行对比。"
+      },
+      "866958830": {
+        "tagline": "原神自动化工具的社区脚本仓库",
+        "summary": "原神自动化工具 BetterGI 的社区脚本仓库：收录 JS 脚本、地图采集路线、自动战斗策略和七圣召唤策略，并对目录命名、注释署名、测试数据与提交格式给出详细规范。",
+        "observation": "README 明确规定由 AI 生成的战斗策略不予接受，要求提交实战耗时与对比数据，还限制脚本内 HTML 遮罩不得用于推广。这类游戏自动化脚本的合规与账号风险，需要使用者自行判断。"
+      },
+      "897268988": {
+        "tagline": "用紧凑语言边收边渲染界面",
+        "summary": "生成式 UI 的开源框架：用一套紧凑、可流式解析的 OpenUI Lang 描述界面，从组件库自动生成提示词，再在 React、Vue、Svelte、Angular 里边收 token 边渲染，README 称比 JSON 更省 token。",
+        "observation": "核心思路是让模型输出受组件库约束的结构化界面，而不是放任自由文本；仓库提供脚手架和在线演练场。生成 UI 的稳定性与可访问性，可能比 token 节省更值得长期观察。"
+      },
+      "909213664": {
+        "tagline": "多角色协同的金融研究框架",
+        "summary": "多智能体 LLM 金融交易研究框架：把分析师、研究员、交易员和风控拆成不同角色协同推理，并配套回测、数据源接入与决策日志，README 记录了近几个月密集的版本迭代。",
+        "observation": "更新日志强调时点一致性与回测防未来函数、每个模型层可换用不同供应商、报告导出为单页 HTML。它属于研究框架而非投资建议，回测表现并不等于实盘结果，这点值得使用者自行留意。"
+      },
+      "1051789550": {
+        "tagline": "知道代理在忙什么的终端窗口管理器",
+        "summary": "用 Go 写的终端窗口管理器与复用器：类 vim 的模态操作、BSP 平铺、多工作区与会话守护，还让窗格里的编码代理上报状态、互相发消息，并汇总到一个收件箱。",
+        "observation": "README 开头专门声明有人在 X 上冒名，项目只在本仓库和 tuios.dev 发布，也没有代币。它用 WebAssembly 提供在线试用，会话守护与跨机连接是卖点，配置复杂度值得先翻文档。"
+      },
+      "1097346685": {
+        "tagline": "给 AI 前端补一套设计规范",
+        "summary": "面向 AI 编码代理的设计指导：一条命令初始化产品背景，提供 polish、audit、critique、bolder 等 24 条命令，以及 62 条无需大模型的确定性检测规则，专门挑出模板化前端写法。",
+        "observation": "README 把问题归为各模型共享的同一套 SaaS 模板审美，并列出反模式清单；检测规则可在命令行与浏览器扩展里离线运行，不需 API key。团队能否长期采纳，可能取决于规则与自家设计规范是否冲突。"
+      },
+      "1136590548": {
+        "tagline": "给代理加规则、记忆与安全层",
+        "summary": "面向 Claude Code、Codex、Cursor 等代理的“脚手架优化系统”：以技能、直觉规则、记忆、安全与研究优先流程来约束代理行为，README 提供多语言说明以及 npm 包和 GitHub App 等安装方式。",
+        "observation": "README 特意警示只从官方仓库、npm 包和 GitHub App 安装，说明这类套装已有仿冒风险。它体量很大，实际收益可能取决于团队是否愿意长期维护这套规则，先小范围试用更稳妥。"
+      },
+      "1152014594": {
+        "tagline": "Claude Code 里的免费 SEO 审计",
+        "summary": "Claude Code 里的免费 SEO 插件：输入站点就跑技术抓取、内容质量、结构化数据、AI 搜索可见度、本地与电商检查，由 26 个子技能和 19 个专职代理分工，最后给出排好优先级的行动清单。",
+        "observation": "README 称一次审计约 10 到 15 分钟，并会解释每条建议的理由和验证方式；部分实时数据能力依赖可选扩展。更适合当作检查清单与写作助手，排名结果仍受搜索算法与站点本身影响。"
+      },
+      "1190598050": {
+        "tagline": "跑在自家 NAS 上的家庭计划",
+        "summary": "自托管家庭计划 PWA：任务、日历、预算、菜单与购物、健康、文档等 20 个模块放在一个容器里，运行在自己的服务器或 NAS 上，用一个 SQLite 文件存数据，不做追踪。",
+        "observation": "README 强调模块互通，例如一周菜单能一键导出按货架排序的购物清单，勾掉的采购还能回填库存。相比订阅制应用是否更省心，可能取决于家庭成员的接受度与自托管的维护成本。"
+      },
+      "1206390571": {
+        "tagline": "本地跑的音色克隆与配音工具箱",
+        "summary": "面向个人和小团队的本地语音工具箱：克隆音色、按描述设计嗓音、给视频配音、口述转写和制作有声书，README 称覆盖 646 种语言，模型运行在自己的硬件上。",
+        "observation": "它以 Electron 桌面应用形式提供，并留出本地 API 与 MCP 供代理调用；默认引擎基于 OmniVoice，也支持切换与可选远程服务。功能面很广，实际效果值得按语言和硬件自行验证。"
+      },
+      "1206425593": {
+        "tagline": "图像视频生成与品牌素材技能包",
+        "summary": "Higgsfield 官方的一组代理技能：在 Claude Code、Cursor 等工具里生成图像、视频、3D 和音频，还包括训练可复用的人像身份模型、产品图拍摄、品牌套件、YouTube 封面与整站搭建。",
+        "observation": "技能之间可以串联，例如先训练身份模型再把参考 id 用在生成任务里；安装方式覆盖 npx skills、gh skill 与插件市场。多数能力依赖官方服务与账号，实际可用度可能受额度与地区影响。"
+      },
+      "1222917575": {
+        "tagline": "让代理做出不像 AI 生成的页面",
+        "summary": "给 Claude Code、Cursor、Codex 等编码代理用的设计技能：从 48 套主题里选题材，按访客来意排版，并在真实浏览器里检查“一眼像 AI”的常见痕迹，例如每个标题上方的眉标、只有图片没有内容的整页。",
+        "observation": "README 把检查分成硬性底线、模型默认反射和润色三档，最后由一个全新上下文的审查者复核；它还支持给 URL 或本地服务自动截图、按路径重做页面。设计偏好主观性强，落地效果可能因项目而异。"
+      },
+      "1273427276": {
+        "tagline": "六阶段、可校验的代理安全审计",
+        "summary": "把编码代理变成安全审计员的技能：先摸清架构与信任边界，再按覆盖清单分派多个隔离代理找漏洞，候选问题交给独立验证者尝试反驳，最后输出可机器校验的结论文件。",
+        "observation": "README 说明它源自 Cloudflare 自建漏洞发现流水线的单仓起点，审计分六阶段，含覆盖率台账与 findings 校验脚本，对同一仓库多次运行可累加。误报率与适用范围仍值得在真实仓库中观察。"
+      },
+      "1293238217": {
+        "tagline": "JetBrains 孵化的代理式 IDE",
+        "summary": "JetBrains 孵化中的 agentic IDE：围绕 pi 编码代理做界面，把每个任务放进独立 git worktree 工作区并行运行，用“活规格”和可复用技能沉淀项目知识，同时保留 Monaco 编辑器、终端与文件视图。",
+        "observation": "README 详细描述了工作区合并、PR 状态展示、把 review 评论转成上下文的流程，改动可以直接变成草稿合入。作为孵化项目功能会变动，扩展机制尚未完成，更适合愿意尝鲜的开发者。"
+      },
+      "1309102418": {
+        "tagline": "开箱即用的多执行器本地代理",
+        "summary": "开箱即用的本地 AI 代理客户端，含桌面与移动端：把 Claude Code、Codex 等执行器与模型混搭起来跑真实项目，任务中途可换模型，而工作区、记忆和技能保持连续。",
+        "observation": "仓库只是开源客户端，后端服务在另一处，部分能力需登录云端；README 也说明可以跳过登录，只用本地代理。多执行器编排是它区别于单一工具的地方，稳定性与费用结构值得观察。"
+      },
+      "1315850547": {
+        "tagline": "会走会翻滚的迷你双足鸭机器人",
+        "summary": "Pollen Robotics 的小型双足机器人“大脑”仓库：约 25 厘米、800 克的鸭子由 RK3566 上的守护进程驱动，50 Hz 控制循环运行神经网络策略，会走、会滚、会捡东西，摔倒后能自己起来。",
+        "observation": "策略训练在同组织的 microduck_rl 仓库，用 MuJoCo 与 PPO 训练后导出 ONNX；本仓库负责运行时、带签名更新与回滚，并提供仿真脚本。硬件门槛和价格决定了它更适合机器人教学与实验。"
+      },
+      "1316443307": {
+        "tagline": "录一遍操作，生成可复用技能",
+        "summary": "微软的桌面录制工具：录下你在屏幕上的真实操作、可选的终端命令与语音解说，用 GitHub Copilot 还原成意图加有序步骤，再生成代理可复用的 SKILL.md，或按计划运行的自动化。",
+        "observation": "README 强调生成的技能优先调用代理原生工具而不是重放点击，并从一次示例推广到同类任务；安装脚本按提交固定版本，需要 Copilot 权限。一次录制能否稳妥泛化，仍值得实测。"
+      },
+      "1324949198": {
+        "tagline": "靠压缩上下文撑长会话的插件",
+        "summary": "一个上下文压缩插件，目标是让单次会话撑到月级、数十亿 token，同时让 100K 窗口够用并省下 token；README 列出 Claude Code、Codex、Gemini CLI 等一长串已适配的编码代理。",
+        "observation": "省 token 与长会话天然矛盾，压缩质量决定了它能否真正替代频繁开新会话，而压缩难免丢失细节。插件适配面很广，但仓库未标注许可证，长期维护与兼容性可能值得观察。"
+      },
+      "1332461149": {
+        "tagline": "多代理常驻的本地桌面工作区",
+        "summary": "本地优先的桌面工作区，让多个 AI 代理长期驻留：Codex、Claude、Grok 等各占独立工作区与会话，配有任务队列、文件互传、内嵌浏览器和代理间消息，可跨桌面与移动端使用。",
+        "observation": "README 明确警告这是开发预览，代理以完全文件访问、无需逐步确认的方式运行，需要自担风险并做好备份，许可证为非商业。多代理协作的实际协调成本值得在真实任务中观察。"
+      },
+      "1334561781": {
+        "tagline": "把编码代理接进九种即时通讯",
+        "summary": "把 DeepSeek Harness 接进即时通讯的插件：通过扫码或机器人凭据，让飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord、WhatsApp 等九个渠道都能与代理对话。",
+        "observation": "项目自称获得 DeepSeek Harness 官方赞助，README 里列了不少分发渠道与榜单徽章。对想在群里直接用编码代理的团队来说门槛较低，但凭据托管方式与消息隐私边界值得先弄清楚。"
+      }
+    },
+    "trends": [
+      {
+        "title": "代理技能层成了新战场",
+        "body": "今天上榜的多个项目都不是模型本身，而是塞给编码代理的“技能”：管设计观感的 Hallmark 与 Impeccable、做安全审计的 Cloudflare 技能、跑 SEO 的插件、生成图像视频的 Higgsfield 技能包，以及把录制操作变成 SKILL.md 的微软工具。它们共同的变化是，提示词正在被结构化的规则、检查与可复用资产替代。",
+        "repoIds": [
+          "1222917575",
+          "1097346685",
+          "1273427276",
+          "1152014594",
+          "1206425593",
+          "1316443307",
+          "1136590548"
+        ]
+      },
+      {
+        "title": "本地优先的代理工作台",
+        "body": "另一条线是把代理装进日常环境：Cindy 把多种执行器混搭进桌面与手机，OpenBot 让多个代理各有工作区和任务队列，ThinkRail 把任务拆进 git worktree 并行跑，tuios 则在终端里管理窗格与会话。配套还有压缩上下文撑长会话的插件，以及把代理接进即时通讯的桥。",
+        "repoIds": [
+          "1309102418",
+          "1332461149",
+          "1293238217",
+          "1051789550",
+          "1324949198",
+          "1334561781"
+        ]
+      },
+      {
+        "title": "垂直场景与硬件落地",
+        "body": "其余项目更贴近具体用途：TradingAgents 把金融研究拆成多角色协同，microduck 是带强化学习策略的迷你双足机器人，Spirula Studio 用单个二进制做 3D 高斯泼溅训练，OpenUI 用紧凑语言约束生成式界面，Yuvomi 把家庭琐事收进自托管服务，BetterGI 的脚本仓库则服务于游戏自动化。",
+        "repoIds": [
+          "909213664",
+          "1315850547",
+          "795775446",
+          "897268988",
+          "1190598050",
+          "866958830"
+        ]
+      }
+    ],
+    "model": "deepseek-v4-flash"
+  }
+}

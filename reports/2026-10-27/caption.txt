@@ -1,0 +1,51 @@
+GitHub 飙升日报｜代理技能与本地工作台同榜
+
+今天主榜几乎被编码代理的周边占满：一边是给代理补设计感、做安全审计、跑 SEO 的“技能”，一边是把多个代理装进桌面、IDE 和终端的“工作台”。此外还有本地语音工具、多智能体金融研究框架，以及一台会走路的鸭子机器人，类型相当分散。
+
+今日涨星榜：
+1. debpalash/VoiceStudio  +2297/日
+本地跑的音色克隆与配音工具箱
+2. Nutlope/hallmark  +2244/日
+让代理做出不像 AI 生成的页面
+3. cloudflare/security-audit-skill  +1860/日
+六阶段、可校验的代理安全审计
+4. pbakaus/impeccable  +1506/日
+给 AI 前端补一套设计规范
+5. AgriciDaniel/claude-seo  +1457/日
+Claude Code 里的免费 SEO 审计
+6. TauricResearch/TradingAgents  +1395/日
+多角色协同的金融研究框架
+7. makecindy/cindy  +1296/日
+开箱即用的多执行器本地代理
+8. JetBrains/thinkrail  +1173/日
+JetBrains 孵化的代理式 IDE
+9. affaan-m/ECC  +896/日
+给代理加规则、记忆与安全层
+10. pollen-robotics/microduck  +843/日
+会走会翻滚的迷你双足鸭机器人
+
+新锐榜（排除涨星榜后，按估算相对涨幅）：
+1. higgsfield-ai/skills  +15.38%（+226/日）
+2. nightly-labs/openbot  +12.14%（+176/日）
+3. ranxianglei/billion-context  +6.25%（+176/日）
+4. xmanrui/dsh-im  +4.31%（+109/日）
+5. microsoft/skill-recorder  +4.02%（+203/日）
+6. babalae/bettergi-scripts-list  +3.13%（+20/日）
+7. Gaurav-Gosain/tuios  +2.95%（+175/日）
+8. ulsklyc/yuvomi  +2.45%（+49/日）
+9. thesysdev/openui  +2.38%（+331/日）
+10. harry7557558/spirula-studio  +2.22%（+42/日）
+
+今天的观察：
+1. 代理技能层成了新战场
+今天上榜的多个项目都不是模型本身，而是塞给编码代理的“技能”：管设计观感的 Hallmark 与 Impeccable、做安全审计的 Cloudflare 技能、跑 SEO 的插件、生成图像视频的 Higgsfield 技能包，以及把录制操作变成 SKILL.md 的微软工具。它们共同的变化是，提示词正在被结构化的规则、检查与可复用资产替代。
+2. 本地优先的代理工作台
+另一条线是把代理装进日常环境：Cindy 把多种执行器混搭进桌面与手机，OpenBot 让多个代理各有工作区和任务队列，ThinkRail 把任务拆进 git worktree 并行跑，tuios 则在终端里管理窗格与会话。配套还有压缩上下文撑长会话的插件，以及把代理接进即时通讯的桥。
+3. 垂直场景与硬件落地
+其余项目更贴近具体用途：TradingAgents 把金融研究拆成多角色协同，microduck 是带强化学习策略的迷你双足机器人，Spirula Studio 用单个二进制做 3D 高斯泼溅训练，OpenUI 用紧凑语言约束生成式界面，Yuvomi 把家庭琐事收进自托管服务，BetterGI 的脚本仓库则服务于游戏自动化。
+
+采集日期：2026-10-27，时区 Asia/Shanghai。候选 96 个，来自 GitHub 全站与配置语言 Trending 日榜。
+新增数为 GitHub 日榜展示口径；新锐涨幅分母为累计 Star 减去当日新增的估算值。
+本工具历史始于 2026-10-25，首次收录不等于项目历史首次登榜。AI 解读为基于公开资料的编辑观察。
+
+#GitHub #开源项目 #AI工具 #开发者 #开源升温
