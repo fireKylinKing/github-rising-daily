@@ -1,0 +1,51 @@
+GitHub 飙升日报｜网盘直链与 Agent 设计技能同榜
+
+今日增量榜大致分两类：一类是面向具体任务的工具与本地应用，比如网盘直链脚本、本地语音工作台；另一类是为编码 Agent 补设计能力的技能包，三个设计相关项目同时出现。榜单数字由程序展示，只代表当日观测，不能说明热度来源或用户规模已被验证。
+
+今日涨星榜：
+1. hmjz100/LinkSwift  +3209/日
+八大网盘直链提取油猴脚本
+2. Nutlope/hallmark  +2830/日
+给编码 Agent 的反 AI 味设计技能
+3. debpalash/VoiceStudio  +2621/日
+本地运行的语音克隆与配音工作台
+4. TauricResearch/TradingAgents  +1735/日
+多智能体协作的金融研究框架
+5. Panniantong/Agent-Reach  +1632/日
+一条命令让 Agent 读取全网内容
+6. HKUDS/DeepTutor  +1598/日
+面向长期陪伴的个性化辅导项目
+7. makecindy/cindy  +1465/日
+多设备接续的开源桌面 Agent
+8. pbakaus/impeccable  +1449/日
+AI 编码 Agent 的设计命令集
+9. elayadesign/ai-design-skills  +1395/日
+可逐份安装的 AI 设计技能集
+10. JetBrains/thinkrail  +1204/日
+JetBrains 孵化中的 Agentic IDE
+
+新锐榜（排除涨星榜后，按估算相对涨幅）：
+1. nightly-labs/openbot  +41.62%（+777/日）
+2. NVIDIA/auto-ontology  +26.06%（+80/日）
+3. fabio-rovai/open-ontologies  +23.08%（+343/日）
+4. togg53192-cmd/jailbreaks  +18.10%（+902/日）
+5. YuJunZhiXue/dsh-purge  +11.86%（+1201/日）
+6. pollen-robotics/microduck  +4.91%（+599/日）
+7. ShayanAbbas1/dbdelve  +4.45%（+25/日）
+8. NVIDIA/SkillSpector  +4.36%（+953/日）
+9. QCYTSN/dsh-dafeiyu  +3.93%（+20/日）
+10. video-db/call.md  +3.89%（+73/日）
+
+今天的观察：
+1. 编码 Agent 开始补设计能力
+hallmark、impeccable 与 ai-design-skills 都把设计拆成可执行的技能与命令：挑主题、按任务排布页面，再用规则挑出模板痕迹。三者差异在规则数量与命令体系，共同点是减少千篇一律的界面，实际效果取决于项目约束。
+2. Agent 从网页搬回桌面与多设备
+cindy 强调多设备接续与订阅复用，thinkrail 用 git worktree 隔离并行会话，openbot 给每个代理独立工作区和队列，VoiceStudio 把语音做成本地桌面应用。共同方向是回到本机运行，代价是权限与资源管理更复杂。
+3. 给 Agent 补上下文与安全边界
+Agent-Reach 打通社交与视频平台，auto-ontology 和 open-ontologies 把数据含义与本体变更做成可校验的语义层，SkillSpector 在安装前扫描技能风险。能力扩张的同时，定义一致性、权限与来源可信度需要一起解决。
+
+采集日期：2026-10-28，时区 Asia/Shanghai。候选 107 个，来自 GitHub 全站与配置语言 Trending 日榜。
+新增数为 GitHub 日榜展示口径；新锐涨幅分母为累计 Star 减去当日新增的估算值。
+本工具历史始于 2026-10-25，首次收录不等于项目历史首次登榜。AI 解读为基于公开资料的编辑观察。
+
+#GitHub #开源项目 #AI工具 #开发者 #开源升温
